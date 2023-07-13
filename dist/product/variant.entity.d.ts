@@ -7,3 +7,4 @@ export declare class Variant {
     sku: string;
     product: Product;
 }
+
